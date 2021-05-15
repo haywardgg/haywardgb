@@ -4,3 +4,4 @@
     🌱 I’m currently learning Mod Development for DayZ
     💞️ I’m looking to collaborate on any open source project
     📫 How to reach me: https://discord.gg/E8yn87Ahbx
+    🙏 Always grateful for donations: https://paypal.me/hayward72
