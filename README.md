@@ -1,4 +1,4 @@
-  👋 Hi, I’m @HaywardGG or just Hayward. <br/> 
+  👋 Hi, welcome to my Github page. <br/> 
   👀 I'm looking for programming experience (open source projects). <br/>
   🌱 Follow me on Twitch: [HaywardGG](https://twitch.tv/haywardgg) <br/>
   📫 How to reach me: hayward@protonmail.com <br/>
