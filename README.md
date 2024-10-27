@@ -3,7 +3,7 @@
   🌱 Follow me on Twitch: [HaywardGG](https://twitch.tv/haywardgg) <br/>
   📫 Email me: hayward@protonmail.com <br/>
   💬 Join me on Discord: @haywardgg - [Discord Server](https://itty.win/discord) <br/>
-  🪦 [My sons tribute page](https://itty.win/rupert) <br/><br/>
+  🪦 In loving memory of my son, [Rupert](https://itty.win/rupert) <br/><br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haywardgg" alt="haywardgg" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
