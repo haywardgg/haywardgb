@@ -1,6 +1,6 @@
   👋 Hi, I’m @HaywardGG or just Hayward. <br/> 
   👀 I'm looking for programming experience (open source projects). <br/>
-  🌱 Follow me on Twitch: [HaywardGG] (https://twitch.tv/haywardgg) <br/>
+  🌱 Follow me on Twitch: [HaywardGG](https://twitch.tv/haywardgg) <br/>
   📫 How to reach me: hayward@protonmail.com <br/>
   💬 Discord: @haywardgg - [Discord Server](https://itty.win/discord) <br/>
   🪦 [My sons tribute page](https://itty.win/rupert) 
